@@ -7,6 +7,16 @@ html {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+  border: 3px solid #4995c4;
+  width: 300px;
+  height: 350px;
+}
+.items {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
 }
 .checkbox {
   display: flex;
