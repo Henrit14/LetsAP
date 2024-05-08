@@ -24,3 +24,11 @@ html {
 a {
   text-decoration: none;
 }
+input[type=email] {
+  border: 3px solid #0091ff;
+  border-radius: 30px;
+}
+input[type=password] {
+  border: 3px solid #0091ff;
+  border-radius: 30px;
+}
