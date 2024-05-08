@@ -26,9 +26,18 @@ a {
 }
 input[type=email] {
   border: 3px solid #0091ff;
-  border-radius: 30px;
+  border-radius: 15px;
 }
 input[type=password] {
+  border: 3px solid #0091ff;
+  border-radius: 15px;
+}
+input {
+  text-align: center;
+}
+button {
+  width: 170px;
+  background: #ffff;
   border: 3px solid #0091ff;
   border-radius: 30px;
 }
