@@ -16,7 +16,7 @@ nav ul {
   
   nav li {
     margin: 0 10px;
-    transition: esae 0.5s all;
+    transition: ease 0.5s all;
   }
   nav li:hover {
     box-shadow: #000;
